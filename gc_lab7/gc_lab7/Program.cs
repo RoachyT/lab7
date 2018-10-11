@@ -16,7 +16,7 @@ namespace gc_lab7
            validName(@"^[A-Z][a-z]{0,29}$", "Please Enter valid Name:");
            validName(@"[A-Za-z1-9]{0,29}@[A-Za-z1-9]{5,10}\.[A-Za-z]{2,3}", "Please Enter valid Email:");
             validName(@"[0-9]{3}-[0-9]{3}-[0-9]{4}", "Please Enter valid Phone Number, including area code:");
-            validName(@"[0-1][0-9][/][0-3][0-9][/][1-2][0-9][0-9][0-9]", "Please Enter valid date:");
+            validName(@"[0-1][0-9][/][0-3][0-9][/][1-2][0-9][0-9][0-9]", "Please Enter valid date (use mm/dd/yyyy):");
             validName(@"[<][A-Za-z1-9]{0,10}[>][<][/][A-Za-z1-9]{0,10}[>]", "Please Enter valid HTML:");
 
             Console.WriteLine("You have validated your data\nPress any key to end");
