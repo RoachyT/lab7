@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\GC_Lab7\gc_lab7\gc_lab7\obj\Debug\gc_lab7.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\GC_Lab7\gc_lab7\gc_lab7\obj\Debug\gc_lab7.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\GC_Lab7\gc_lab7\gc_lab7\bin\Debug\gc_lab7.exe.config
+C:\Users\rtoles\Desktop\GC_Lab7\gc_lab7\gc_lab7\bin\Debug\gc_lab7.exe
+C:\Users\rtoles\Desktop\GC_Lab7\gc_lab7\gc_lab7\bin\Debug\gc_lab7.pdb
+C:\Users\rtoles\Desktop\GC_Lab7\gc_lab7\gc_lab7\obj\Debug\gc_lab7.exe
+C:\Users\rtoles\Desktop\GC_Lab7\gc_lab7\gc_lab7\obj\Debug\gc_lab7.pdb
